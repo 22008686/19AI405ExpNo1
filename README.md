@@ -101,11 +101,11 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
-```
-## OUTPUT:
+
+# OUTPUT:
 
 ![Screenshot 2024-02-22 122043](https://github.com/22008686/19AI405ExpNo1/assets/118916413/0f635fa0-c670-42c7-a3dc-b1bc292ac788)
 
-## RESULT:
+# RESULT:
 
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
